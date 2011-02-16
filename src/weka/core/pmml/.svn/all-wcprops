@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/weka/!svn/ver/6467/trunk/weka/src/main/java/weka/core/pmml
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/core/pmml/Expression.java
+END
+DefineFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/pmml/DefineFunction.java
+END
+NormContinuous.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/pmml/NormContinuous.java
+END
+MiningSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/pmml/MiningSchema.java
+END
+Discretize.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/pmml/Discretize.java
+END
+FieldMetaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/pmml/FieldMetaInfo.java
+END
+MappingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/6463/trunk/weka/src/main/java/weka/core/pmml/MappingInfo.java
+END
+MiningFieldMetaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/pmml/MiningFieldMetaInfo.java
+END
+TargetMetaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/pmml/TargetMetaInfo.java
+END
+DerivedFieldMetaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/core/pmml/DerivedFieldMetaInfo.java
+END
+Array.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/weka/!svn/ver/6467/trunk/weka/src/main/java/weka/core/pmml/Array.java
+END
+BuiltInArithmetic.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/pmml/BuiltInArithmetic.java
+END
+BuiltInMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/core/pmml/BuiltInMath.java
+END
+FieldRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/weka/!svn/ver/6460/trunk/weka/src/main/java/weka/core/pmml/FieldRef.java
+END
+Apply.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/pmml/Apply.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/core/pmml/Function.java
+END
+PMMLModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/pmml/PMMLModel.java
+END
+PMMLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/pmml/PMMLUtils.java
+END
+VectorInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/6466/trunk/weka/src/main/java/weka/core/pmml/VectorInstance.java
+END
+VectorDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/6466/trunk/weka/src/main/java/weka/core/pmml/VectorDictionary.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/pmml/Constant.java
+END
+SparseArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/6466/trunk/weka/src/main/java/weka/core/pmml/SparseArray.java
+END
+TransformationDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/core/pmml/TransformationDictionary.java
+END
+BuiltInString.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/pmml/BuiltInString.java
+END
+PMMLFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/6467/trunk/weka/src/main/java/weka/core/pmml/PMMLFactory.java
+END
+NormDiscrete.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/pmml/NormDiscrete.java
+END

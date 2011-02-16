@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/trees/lmt
+END
+ResidualModelSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/lmt/ResidualModelSelection.java
+END
+LMTNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/lmt/LMTNode.java
+END
+ResidualSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/lmt/ResidualSplit.java
+END
+LogisticBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/trees/lmt/LogisticBase.java
+END

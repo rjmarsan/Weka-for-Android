@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/weka/!svn/ver/7067/trunk/weka/src/main/java/weka/associations
+END
+AssociatorEvaluation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/6496/trunk/weka/src/main/java/weka/associations/AssociatorEvaluation.java
+END
+AprioriItemSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/6555/trunk/weka/src/main/java/weka/associations/AprioriItemSet.java
+END
+FPGrowth.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/7060/trunk/weka/src/main/java/weka/associations/FPGrowth.java
+END
+BinaryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/6539/trunk/weka/src/main/java/weka/associations/BinaryItem.java
+END
+AssociationRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/6485/trunk/weka/src/main/java/weka/associations/AssociationRule.java
+END
+Apriori.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/7067/trunk/weka/src/main/java/weka/associations/Apriori.java
+END
+CheckAssociator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/CheckAssociator.java
+END
+CARuleMiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/CARuleMiner.java
+END
+FilteredAssociationRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/6522/trunk/weka/src/main/java/weka/associations/FilteredAssociationRules.java
+END
+Associator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/Associator.java
+END
+DefaultAssociationRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/6497/trunk/weka/src/main/java/weka/associations/DefaultAssociationRule.java
+END
+ItemSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/6514/trunk/weka/src/main/java/weka/associations/ItemSet.java
+END
+NominalItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/6543/trunk/weka/src/main/java/weka/associations/NominalItem.java
+END
+SingleAssociatorEnhancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/SingleAssociatorEnhancer.java
+END
+NumericItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/6543/trunk/weka/src/main/java/weka/associations/NumericItem.java
+END
+LabeledItemSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/LabeledItemSet.java
+END
+FilteredAssociator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/6522/trunk/weka/src/main/java/weka/associations/FilteredAssociator.java
+END
+AssociationRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/6522/trunk/weka/src/main/java/weka/associations/AssociationRules.java
+END
+AssociationRulesProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/6512/trunk/weka/src/main/java/weka/associations/AssociationRulesProducer.java
+END
+AbstractAssociator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/6624/trunk/weka/src/main/java/weka/associations/AbstractAssociator.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/weka/!svn/ver/6543/trunk/weka/src/main/java/weka/associations/Item.java
+END

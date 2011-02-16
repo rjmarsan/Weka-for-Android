@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/weka/!svn/ver/6680/trunk/weka/src/main/java/weka/core/logging
+END
+FileLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/6679/trunk/weka/src/main/java/weka/core/logging/FileLogger.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weka/!svn/ver/4716/trunk/weka/src/main/java/weka/core/logging/Logger.java
+END
+OutputLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4716/trunk/weka/src/main/java/weka/core/logging/OutputLogger.java
+END
+ConsoleLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/4716/trunk/weka/src/main/java/weka/core/logging/ConsoleLogger.java
+END
+Logging.props
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/6680/trunk/weka/src/main/java/weka/core/logging/Logging.props
+END

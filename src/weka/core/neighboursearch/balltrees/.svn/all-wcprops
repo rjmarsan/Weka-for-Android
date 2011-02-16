@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees
+END
+BottomUpConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees/BottomUpConstructor.java
+END
+BallNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees/BallNode.java
+END
+BallTreeConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees/BallTreeConstructor.java
+END
+TopDownConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees/TopDownConstructor.java
+END
+BallSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees/BallSplitter.java
+END
+MedianDistanceFromArbitraryPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees/MedianDistanceFromArbitraryPoint.java
+END
+MedianOfWidestDimension.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees/MedianOfWidestDimension.java
+END
+PointsClosestToFurthestChildren.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees/PointsClosestToFurthestChildren.java
+END
+MiddleOutConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees/MiddleOutConstructor.java
+END

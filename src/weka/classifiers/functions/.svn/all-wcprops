@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/7057/trunk/weka/src/main/java/weka/classifiers/functions
+END
+GaussianProcesses.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/6984/trunk/weka/src/main/java/weka/classifiers/functions/GaussianProcesses.java
+END
+VotedPerceptron.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/functions/VotedPerceptron.java
+END
+SimpleLinearRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/functions/SimpleLinearRegression.java
+END
+SimpleLogistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/functions/SimpleLogistic.java
+END
+MultilayerPerceptron.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/6559/trunk/weka/src/main/java/weka/classifiers/functions/MultilayerPerceptron.java
+END
+LinearRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/functions/LinearRegression.java
+END
+SMOreg.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/functions/SMOreg.java
+END
+Logistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/functions/Logistic.java
+END
+SGD.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/7057/trunk/weka/src/main/java/weka/classifiers/functions/SGD.java
+END
+SMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/6024/trunk/weka/src/main/java/weka/classifiers/functions/SMO.java
+END

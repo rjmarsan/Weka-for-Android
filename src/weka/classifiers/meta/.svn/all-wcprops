@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weka/!svn/ver/6997/trunk/weka/src/main/java/weka/classifiers/meta
+END
+FilteredClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/6799/trunk/weka/src/main/java/weka/classifiers/meta/FilteredClassifier.java
+END
+Stacking.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/6997/trunk/weka/src/main/java/weka/classifiers/meta/Stacking.java
+END
+RandomSubSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/meta/RandomSubSpace.java
+END
+CostSensitiveClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/meta/CostSensitiveClassifier.java
+END
+Vote.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/classifiers/meta/Vote.java
+END
+CVParameterSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/meta/CVParameterSelection.java
+END
+MultiScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/meta/MultiScheme.java
+END
+AttributeSelectedClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/meta/AttributeSelectedClassifier.java
+END
+LogitBoost.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/6091/trunk/weka/src/main/java/weka/classifiers/meta/LogitBoost.java
+END
+MultiClassClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/meta/MultiClassClassifier.java
+END
+RandomCommittee.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/meta/RandomCommittee.java
+END
+RegressionByDiscretization.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/6987/trunk/weka/src/main/java/weka/classifiers/meta/RegressionByDiscretization.java
+END
+AdaBoostM1.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/meta/AdaBoostM1.java
+END
+AdditiveRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/meta/AdditiveRegression.java
+END
+ClassificationViaRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/6986/trunk/weka/src/main/java/weka/classifiers/meta/ClassificationViaRegression.java
+END
+Bagging.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/6501/trunk/weka/src/main/java/weka/classifiers/meta/Bagging.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weka/!svn/ver/6792/trunk/weka/src/main/java/weka/clusterers
+END
+UpdateableClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/clusterers/UpdateableClusterer.java
+END
+NumberOfClustersRequestable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/NumberOfClustersRequestable.java
+END
+RandomizableDensityBasedClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/RandomizableDensityBasedClusterer.java
+END
+RandomizableClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/RandomizableClusterer.java
+END
+Cobweb.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/weka/!svn/ver/6792/trunk/weka/src/main/java/weka/clusterers/Cobweb.java
+END
+EM.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weka/!svn/ver/6298/trunk/weka/src/main/java/weka/clusterers/EM.java
+END
+MakeDensityBasedClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5488/trunk/weka/src/main/java/weka/clusterers/MakeDensityBasedClusterer.java
+END
+CheckClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/CheckClusterer.java
+END
+RandomizableSingleClustererEnhancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/RandomizableSingleClustererEnhancer.java
+END
+DensityBasedClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/clusterers/DensityBasedClusterer.java
+END
+HierarchicalClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/6587/trunk/weka/src/main/java/weka/clusterers/HierarchicalClusterer.java
+END
+Clusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/clusterers/Clusterer.java
+END
+ClusterEvaluation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/6021/trunk/weka/src/main/java/weka/clusterers/ClusterEvaluation.java
+END
+SingleClustererEnhancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/SingleClustererEnhancer.java
+END
+FilteredClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/5488/trunk/weka/src/main/java/weka/clusterers/FilteredClusterer.java
+END
+FarthestFirst.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/clusterers/FarthestFirst.java
+END
+SimpleKMeans.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/6450/trunk/weka/src/main/java/weka/clusterers/SimpleKMeans.java
+END
+AbstractDensityBasedClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/AbstractDensityBasedClusterer.java
+END
+AbstractClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/6624/trunk/weka/src/main/java/weka/clusterers/AbstractClusterer.java
+END

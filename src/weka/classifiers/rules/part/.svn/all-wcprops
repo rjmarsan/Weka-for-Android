@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/weka/!svn/ver/5483/trunk/weka/src/main/java/weka/classifiers/rules/part
+END
+C45PruneableDecList.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/rules/part/C45PruneableDecList.java
+END
+MakeDecList.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5483/trunk/weka/src/main/java/weka/classifiers/rules/part/MakeDecList.java
+END
+PruneableDecList.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/rules/part/PruneableDecList.java
+END
+ClassifierDecList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/rules/part/ClassifierDecList.java
+END

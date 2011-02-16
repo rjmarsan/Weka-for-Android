@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/6612/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local
+END
+Scoreable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local/Scoreable.java
+END
+RepeatedHillClimber.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local/RepeatedHillClimber.java
+END
+TabuSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local/TabuSearch.java
+END
+TAN.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/6233/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local/TAN.java
+END
+LocalScoreSearchAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/weka/!svn/ver/5195/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local/LocalScoreSearchAlgorithm.java
+END
+GeneticSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local/GeneticSearch.java
+END
+SimulatedAnnealing.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local/SimulatedAnnealing.java
+END
+HillClimber.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/6612/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local/HillClimber.java
+END
+K2.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local/K2.java
+END
+LAGDHillClimber.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/local/LAGDHillClimber.java
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weka/!svn/ver/5924/trunk/weka/src/main/java/weka/estimators
+END
+UnivariateDensityEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5680/trunk/weka/src/main/java/weka/estimators/UnivariateDensityEstimator.java
+END
+UnivariateKernelEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5680/trunk/weka/src/main/java/weka/estimators/UnivariateKernelEstimator.java
+END
+UnivariateQuantileEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5924/trunk/weka/src/main/java/weka/estimators/UnivariateQuantileEstimator.java
+END
+DDConditionalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/estimators/DDConditionalEstimator.java
+END
+UnivariateIntervalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5861/trunk/weka/src/main/java/weka/estimators/UnivariateIntervalEstimator.java
+END
+CheckEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4997/trunk/weka/src/main/java/weka/estimators/CheckEstimator.java
+END
+MahalanobisEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/5490/trunk/weka/src/main/java/weka/estimators/MahalanobisEstimator.java
+END
+Estimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5489/trunk/weka/src/main/java/weka/estimators/Estimator.java
+END
+UnivariateNormalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5680/trunk/weka/src/main/java/weka/estimators/UnivariateNormalEstimator.java
+END
+KernelEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5490/trunk/weka/src/main/java/weka/estimators/KernelEstimator.java
+END
+DKConditionalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/estimators/DKConditionalEstimator.java
+END
+KDConditionalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/estimators/KDConditionalEstimator.java
+END
+DNConditionalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/estimators/DNConditionalEstimator.java
+END
+NDConditionalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/estimators/NDConditionalEstimator.java
+END
+NormalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5490/trunk/weka/src/main/java/weka/estimators/NormalEstimator.java
+END
+KKConditionalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/estimators/KKConditionalEstimator.java
+END
+PoissonEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/5490/trunk/weka/src/main/java/weka/estimators/PoissonEstimator.java
+END
+NNConditionalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/estimators/NNConditionalEstimator.java
+END
+UnivariateEqualFrequencyHistogramEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/5680/trunk/weka/src/main/java/weka/estimators/UnivariateEqualFrequencyHistogramEstimator.java
+END
+EstimatorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/estimators/EstimatorUtils.java
+END
+IncrementalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/estimators/IncrementalEstimator.java
+END
+DiscreteEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/5490/trunk/weka/src/main/java/weka/estimators/DiscreteEstimator.java
+END
+ConditionalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/estimators/ConditionalEstimator.java
+END

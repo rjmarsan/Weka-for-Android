@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/7027/trunk/weka/src/main/java/weka/classifiers/trees/j48
+END
+BinC45Split.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/6073/trunk/weka/src/main/java/weka/classifiers/trees/j48/BinC45Split.java
+END
+PruneableClassifierTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/5533/trunk/weka/src/main/java/weka/classifiers/trees/j48/PruneableClassifierTree.java
+END
+ClassifierTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5530/trunk/weka/src/main/java/weka/classifiers/trees/j48/ClassifierTree.java
+END
+NBTreeClassifierTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/5534/trunk/weka/src/main/java/weka/classifiers/trees/j48/NBTreeClassifierTree.java
+END
+ModelSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/ModelSelection.java
+END
+NBTreeModelSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/NBTreeModelSelection.java
+END
+C45Split.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/6073/trunk/weka/src/main/java/weka/classifiers/trees/j48/C45Split.java
+END
+SplitCriterion.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/SplitCriterion.java
+END
+BinC45ModelSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/6073/trunk/weka/src/main/java/weka/classifiers/trees/j48/BinC45ModelSelection.java
+END
+GainRatioSplitCrit.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/GainRatioSplitCrit.java
+END
+C45PruneableClassifierTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/6073/trunk/weka/src/main/java/weka/classifiers/trees/j48/C45PruneableClassifierTree.java
+END
+Distribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/Distribution.java
+END
+ClassifierSplitModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/ClassifierSplitModel.java
+END
+C45ModelSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/6073/trunk/weka/src/main/java/weka/classifiers/trees/j48/C45ModelSelection.java
+END
+InfoGainSplitCrit.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/InfoGainSplitCrit.java
+END
+NBTreeNoSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/trees/j48/NBTreeNoSplit.java
+END
+NoSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/NoSplit.java
+END
+NBTreeSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/6088/trunk/weka/src/main/java/weka/classifiers/trees/j48/NBTreeSplit.java
+END
+EntropyBasedSplitCrit.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/EntropyBasedSplitCrit.java
+END
+EntropySplitCrit.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/EntropySplitCrit.java
+END
+Stats.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/trees/j48/Stats.java
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weka/!svn/ver/7048/trunk/weka/src/main/java/weka/core/converters
+END
+TextDirectoryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/6766/trunk/weka/src/main/java/weka/core/converters/TextDirectoryLoader.java
+END
+MatlabSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/MatlabSaver.java
+END
+SerializedInstancesSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4912/trunk/weka/src/main/java/weka/core/converters/SerializedInstancesSaver.java
+END
+AbstractFileSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/6911/trunk/weka/src/main/java/weka/core/converters/AbstractFileSaver.java
+END
+AbstractSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/AbstractSaver.java
+END
+ArffLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/7048/trunk/weka/src/main/java/weka/core/converters/ArffLoader.java
+END
+Loader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/Loader.java
+END
+JSONSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/JSONSaver.java
+END
+ArffSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/ArffSaver.java
+END
+CSVLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/6098/trunk/weka/src/main/java/weka/core/converters/CSVLoader.java
+END
+SVMLightLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/SVMLightLoader.java
+END
+DatabaseConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/DatabaseConnection.java
+END
+SerializedInstancesLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/SerializedInstancesLoader.java
+END
+AbstractFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4983/trunk/weka/src/main/java/weka/core/converters/AbstractFileLoader.java
+END
+AbstractLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/AbstractLoader.java
+END
+DatabaseLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/7039/trunk/weka/src/main/java/weka/core/converters/DatabaseLoader.java
+END
+C45Saver.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/C45Saver.java
+END
+FileSourcedConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/FileSourcedConverter.java
+END
+JSONLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5784/trunk/weka/src/main/java/weka/core/converters/JSONLoader.java
+END
+DatabaseSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/DatabaseSaver.java
+END
+XRFFSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/XRFFSaver.java
+END
+BatchConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/BatchConverter.java
+END
+URLSourcedLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/URLSourcedLoader.java
+END
+Saver.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/Saver.java
+END
+C45Loader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/converters/C45Loader.java
+END
+LibSVMLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/LibSVMLoader.java
+END
+MatlabLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/converters/MatlabLoader.java
+END
+ConverterUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/7009/trunk/weka/src/main/java/weka/core/converters/ConverterUtils.java
+END
+IncrementalConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/IncrementalConverter.java
+END
+XRFFLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/converters/XRFFLoader.java
+END
+DatabaseConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/DatabaseConverter.java
+END
+CSVSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/6098/trunk/weka/src/main/java/weka/core/converters/CSVSaver.java
+END
+LibSVMSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/LibSVMSaver.java
+END
+SVMLightSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/converters/SVMLightSaver.java
+END

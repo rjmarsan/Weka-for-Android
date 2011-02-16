@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/ci
+END
+CISearchAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/ci/CISearchAlgorithm.java
+END
+ICSSearchAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/ci/ICSSearchAlgorithm.java
+END

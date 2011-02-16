@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/scripting
+END
+JythonObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/5018/trunk/weka/src/main/java/weka/core/scripting/JythonObject.java
+END
+Groovy.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/scripting/Groovy.java
+END
+JythonSerializableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5018/trunk/weka/src/main/java/weka/core/scripting/JythonSerializableObject.java
+END
+Jython.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/scripting/Jython.java
+END

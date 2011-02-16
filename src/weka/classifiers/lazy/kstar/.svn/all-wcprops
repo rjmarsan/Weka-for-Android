@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/classifiers/lazy/kstar
+END
+KStarConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/lazy/kstar/KStarConstants.java
+END
+KStarWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/lazy/kstar/KStarWrapper.java
+END
+KStarNominalAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/lazy/kstar/KStarNominalAttribute.java
+END
+KStarCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/lazy/kstar/KStarCache.java
+END
+KStarNumericAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/lazy/kstar/KStarNumericAttribute.java
+END

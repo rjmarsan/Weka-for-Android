@@ -1,0 +1,53 @@
+8
+
+dir
+7068
+https://svn.scms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/bayes/net/search
+https://svn.scms.waikato.ac.nz/svn/weka
+
+
+
+2010-06-14T07:09:42.683928Z
+6612
+remco
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+fixed
+dir
+
+global
+dir
+
+local
+dir
+
+ci
+dir
+
+SearchAlgorithm.java
+file
+
+
+
+
+2011-02-16T04:30:25.000000Z
+e1d718e8a4a1f7fe773c7384442fd2ae
+2010-06-14T07:09:42.683928Z
+6612
+remco
+has-props
+

@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/6997/trunk/weka/src/main/java/weka/filters/unsupervised/attribute
+END
+RemoveType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/RemoveType.java
+END
+RemoveUseless.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/RemoveUseless.java
+END
+Reorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/6250/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/Reorder.java
+END
+PartitionedMultiFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/6971/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/PartitionedMultiFilter.java
+END
+AddID.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/AddID.java
+END
+Discretize.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/6567/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/Discretize.java
+END
+AddValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/6898/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/AddValues.java
+END
+Standardize.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/Standardize.java
+END
+PKIDiscretize.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/PKIDiscretize.java
+END
+NumericToBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/NumericToBinary.java
+END
+SortLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/SortLabels.java
+END
+RandomProjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/6749/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/RandomProjection.java
+END
+Center.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/Center.java
+END
+AddNoise.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/AddNoise.java
+END
+KernelFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/KernelFilter.java
+END
+TimeSeriesTranslate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/TimeSeriesTranslate.java
+END
+StringToNominal.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/StringToNominal.java
+END
+NominalToString.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/6246/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/NominalToString.java
+END
+PrincipalComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/6714/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/PrincipalComponents.java
+END
+SwapValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/SwapValues.java
+END
+ChangeDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/ChangeDateFormat.java
+END
+Remove.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/6836/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/Remove.java
+END
+ClusterMembership.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/ClusterMembership.java
+END
+Normalize.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/Normalize.java
+END
+ClassAssigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/ClassAssigner.java
+END
+MergeManyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/6868/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/MergeManyValues.java
+END
+InterquartileRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/InterquartileRange.java
+END
+NominalToBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/NominalToBinary.java
+END
+RandomSubset.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/RandomSubset.java
+END
+AddExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/AddExpression.java
+END
+MathExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/6480/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/MathExpression.java
+END
+MergeTwoValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/MergeTwoValues.java
+END
+MakeIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/MakeIndicator.java
+END
+Copy.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/6997/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/Copy.java
+END
+PotentialClassIgnorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/PotentialClassIgnorer.java
+END
+Obfuscate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/6174/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/Obfuscate.java
+END
+NumericToNominal.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/NumericToNominal.java
+END
+FirstOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/FirstOrder.java
+END
+TimeSeriesDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/TimeSeriesDelta.java
+END
+ReplaceMissingValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/ReplaceMissingValues.java
+END
+Add.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/Add.java
+END
+StringToWordVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/StringToWordVector.java
+END
+RemoveByName.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/6076/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/RemoveByName.java
+END
+AddCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/AddCluster.java
+END
+RenameAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/6108/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/RenameAttribute.java
+END
+NumericCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/NumericCleaner.java
+END
+AbstractTimeSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/AbstractTimeSeries.java
+END
+NumericTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/attribute/NumericTransform.java
+END

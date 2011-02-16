@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/6942/trunk/weka/src/main/java/weka/classifiers/bayes/net
+END
+BayesNetGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/classifiers/bayes/net/BayesNetGenerator.java
+END
+BIFReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/BIFReader.java
+END
+EditableBayesNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4899/trunk/weka/src/main/java/weka/classifiers/bayes/net/EditableBayesNet.java
+END
+GUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4902/trunk/weka/src/main/java/weka/classifiers/bayes/net/GUI.java
+END
+ParentSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/6942/trunk/weka/src/main/java/weka/classifiers/bayes/net/ParentSet.java
+END
+MarginCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4899/trunk/weka/src/main/java/weka/classifiers/bayes/net/MarginCalculator.java
+END
+VaryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/VaryNode.java
+END
+ADNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/ADNode.java
+END

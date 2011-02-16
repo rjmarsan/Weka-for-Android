@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/classifiers/bayes/net/estimate
+END
+DiscreteEstimatorFullBayes.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/estimate/DiscreteEstimatorFullBayes.java
+END
+SimpleEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/estimate/SimpleEstimator.java
+END
+BayesNetEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/estimate/BayesNetEstimator.java
+END
+MultiNomialBMAEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/classifiers/bayes/net/estimate/MultiNomialBMAEstimator.java
+END
+BMAEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/estimate/BMAEstimator.java
+END
+DiscreteEstimatorBayes.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/estimate/DiscreteEstimatorBayes.java
+END

@@ -1,0 +1,106 @@
+8
+
+dir
+7068
+https://svn.scms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/datagenerators
+https://svn.scms.waikato.ac.nz/svn/weka
+
+
+
+2009-09-24T22:44:39.828611Z
+5987
+eibe
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+Test.java
+file
+
+
+
+
+2011-02-16T04:29:45.000000Z
+77ac8e8c5cb8da71aa9f5fd423540c4d
+2008-04-16T22:11:31.000000Z
+4361
+fracpete
+
+DataGenerator.java
+file
+
+
+
+
+2011-02-16T04:29:45.000000Z
+c39b19cda709d1e9e8972f12f5045923
+2008-10-14T22:28:46.181802Z
+4557
+fracpete
+
+ClassificationGenerator.java
+file
+
+
+
+
+2011-02-16T04:29:45.000000Z
+2454a6b4610e25c9b97a8cfb152122eb
+2008-10-14T22:28:46.181802Z
+4557
+fracpete
+
+classifiers
+dir
+
+RegressionGenerator.java
+file
+
+
+
+
+2011-02-16T04:29:45.000000Z
+b9ca36759f6c04f5bb9e27867ac1aa83
+2008-10-14T22:28:46.181802Z
+4557
+fracpete
+
+ClusterGenerator.java
+file
+
+
+
+
+2011-02-16T04:29:45.000000Z
+124dbe850c04bf23396bb4067be9cc70
+2007-05-01T01:24:52.000000Z
+3903
+fracpete
+
+ClusterDefinition.java
+file
+
+
+
+
+2011-02-16T04:29:45.000000Z
+8f774833ce9022a0cdfe7f1c76520b46
+2008-10-14T22:28:46.181802Z
+4557
+fracpete
+
+clusterers
+dir
+

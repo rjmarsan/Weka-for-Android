@@ -1,0 +1,40 @@
+8
+
+dir
+7068
+https://svn.scms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/experiment/xml
+https://svn.scms.waikato.ac.nz/svn/weka
+
+
+
+2009-05-17T04:20:17.316077Z
+5349
+fracpete
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+XMLExperiment.java
+file
+
+
+
+
+2011-02-16T04:29:42.000000Z
+4e01342a592c9052f1f03dee81eea449
+2008-04-16T22:11:31.000000Z
+4361
+fracpete
+

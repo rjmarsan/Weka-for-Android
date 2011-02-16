@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weka/!svn/ver/6991/trunk/weka/src/main/java/weka/classifiers/lazy
+END
+KStar.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/lazy/KStar.java
+END
+IBk.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/6572/trunk/weka/src/main/java/weka/classifiers/lazy/IBk.java
+END
+LWL.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/6055/trunk/weka/src/main/java/weka/classifiers/lazy/LWL.java
+END

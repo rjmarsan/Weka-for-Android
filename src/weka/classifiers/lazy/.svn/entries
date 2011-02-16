@@ -1,0 +1,70 @@
+8
+
+dir
+7068
+https://svn.scms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/lazy
+https://svn.scms.waikato.ac.nz/svn/weka
+
+
+
+2010-12-02T01:50:48.878873Z
+6991
+mhall
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+kstar
+dir
+
+KStar.java
+file
+
+
+
+
+2011-02-16T04:30:21.000000Z
+b28c3d565b3adc3568495dcbec6221d4
+2009-09-03T00:07:59.489268Z
+5928
+eibe
+has-props
+
+IBk.java
+file
+
+
+
+
+2011-02-16T04:30:21.000000Z
+a7fa1406cb8a8c480a3757ec5dea8a7b
+2010-05-23T23:31:14.635498Z
+6572
+mhall
+has-props
+
+LWL.java
+file
+
+
+
+
+2011-02-16T04:30:21.000000Z
+11023da3e79e547237998399837a8c8b
+2009-10-29T21:04:19.740682Z
+6055
+mhall
+has-props
+

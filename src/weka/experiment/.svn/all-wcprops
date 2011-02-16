@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weka/!svn/ver/7038/trunk/weka/src/main/java/weka/experiment
+END
+ExplicitTestsetResultProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/5353/trunk/weka/src/main/java/weka/experiment/ExplicitTestsetResultProducer.java
+END
+CSVResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/CSVResultListener.java
+END
+RemoteExperimentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/RemoteExperimentListener.java
+END
+DatabaseUtils.props.mssqlserver2005
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5837/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.props.mssqlserver2005
+END
+remote.policy.example
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/6874/trunk/weka/src/main/java/weka/experiment/remote.policy.example
+END
+DensityBasedClustererSplitEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/experiment/DensityBasedClustererSplitEvaluator.java
+END
+CostSensitiveClassifierSplitEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/experiment/CostSensitiveClassifierSplitEvaluator.java
+END
+ResultMatrixSignificance.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/5346/trunk/weka/src/main/java/weka/experiment/ResultMatrixSignificance.java
+END
+DatabaseResultProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/6423/trunk/weka/src/main/java/weka/experiment/DatabaseResultProducer.java
+END
+DatabaseUtils.props
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5837/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.props
+END
+DatabaseUtils.props.msaccess
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5837/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.props.msaccess
+END
+DatabaseUtils.props.postgresql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5837/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.props.postgresql
+END
+DatabaseResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/5126/trunk/weka/src/main/java/weka/experiment/DatabaseResultListener.java
+END
+remote.policy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weka/!svn/ver/6874/trunk/weka/src/main/java/weka/experiment/remote.policy
+END
+DatabaseUtils.props.hsql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5837/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.props.hsql
+END
+SplitEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/SplitEvaluator.java
+END
+LearningRateResultProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/6426/trunk/weka/src/main/java/weka/experiment/LearningRateResultProducer.java
+END
+RegressionSplitEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/experiment/RegressionSplitEvaluator.java
+END
+PairedTTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/6432/trunk/weka/src/main/java/weka/experiment/PairedTTester.java
+END
+Experiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/6385/trunk/weka/src/main/java/weka/experiment/Experiment.java
+END
+PairedStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/PairedStats.java
+END
+ResultMatrixHTML.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/5346/trunk/weka/src/main/java/weka/experiment/ResultMatrixHTML.java
+END
+RemoteExperimentSubTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/RemoteExperimentSubTask.java
+END
+DatabaseUtils.props.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/5837/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.props.sqlite3
+END
+OutputZipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/OutputZipper.java
+END
+PropertyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/PropertyNode.java
+END
+RemoteExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/RemoteExperiment.java
+END
+RandomSplitResultProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/6256/trunk/weka/src/main/java/weka/experiment/RandomSplitResultProducer.java
+END
+ResultMatrixLatex.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/5346/trunk/weka/src/main/java/weka/experiment/ResultMatrixLatex.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/Task.java
+END
+ResultMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/5346/trunk/weka/src/main/java/weka/experiment/ResultMatrix.java
+END
+AveragingResultProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/6420/trunk/weka/src/main/java/weka/experiment/AveragingResultProducer.java
+END
+Tester.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/Tester.java
+END
+CrossValidationResultProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/CrossValidationResultProducer.java
+END
+PairedCorrectedTTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/PairedCorrectedTTester.java
+END
+DatabaseUtils.props.oracle
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/5837/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.props.oracle
+END
+DatabaseUtils.props.mysql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/5837/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.props.mysql
+END
+Compute.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/Compute.java
+END
+ResultMatrixGnuPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5346/trunk/weka/src/main/java/weka/experiment/ResultMatrixGnuPlot.java
+END
+DatabaseUtils.props.odbc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5837/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.props.odbc
+END
+PairedStatsCorrected.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/PairedStatsCorrected.java
+END
+ResultMatrixCSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5346/trunk/weka/src/main/java/weka/experiment/ResultMatrixCSV.java
+END
+RemoteEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/6872/trunk/weka/src/main/java/weka/experiment/RemoteEngine.java
+END
+ResultProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/ResultProducer.java
+END
+TaskStatusInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/TaskStatusInfo.java
+END
+ClassifierSplitEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/experiment/ClassifierSplitEvaluator.java
+END
+CrossValidationSplitResultProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/6922/trunk/weka/src/main/java/weka/experiment/CrossValidationSplitResultProducer.java
+END
+ResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/ResultListener.java
+END
+DatabaseUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/6615/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.java
+END
+InstanceQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/7038/trunk/weka/src/main/java/weka/experiment/InstanceQuery.java
+END
+InstancesResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/experiment/InstancesResultListener.java
+END
+DatabaseUtils.props.mssqlserver
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5837/trunk/weka/src/main/java/weka/experiment/DatabaseUtils.props.mssqlserver
+END
+ResultMatrixPlainText.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/5346/trunk/weka/src/main/java/weka/experiment/ResultMatrixPlainText.java
+END
+RemoteExperimentEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/RemoteExperimentEvent.java
+END
+Stats.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/experiment/Stats.java
+END

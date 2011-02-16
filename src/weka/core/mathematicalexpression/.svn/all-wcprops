@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/6481/trunk/weka/src/main/java/weka/core/mathematicalexpression
+END
+Scanner.jflex
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/6481/trunk/weka/src/main/java/weka/core/mathematicalexpression/Scanner.jflex
+END
+Parser.cup
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4939/trunk/weka/src/main/java/weka/core/mathematicalexpression/Parser.cup
+END
+sym.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/6481/trunk/weka/src/main/java/weka/core/mathematicalexpression/sym.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/6481/trunk/weka/src/main/java/weka/core/mathematicalexpression/Scanner.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/6481/trunk/weka/src/main/java/weka/core/mathematicalexpression/Parser.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/6804/trunk/weka/src/main/java/weka/classifiers/evaluation/output/prediction
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/6804/trunk/weka/src/main/java/weka/classifiers/evaluation/output/prediction/XML.java
+END
+AbstractOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/6804/trunk/weka/src/main/java/weka/classifiers/evaluation/output/prediction/AbstractOutput.java
+END
+HTML.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/6804/trunk/weka/src/main/java/weka/classifiers/evaluation/output/prediction/HTML.java
+END
+PlainText.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/6804/trunk/weka/src/main/java/weka/classifiers/evaluation/output/prediction/PlainText.java
+END
+Null.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/5466/trunk/weka/src/main/java/weka/classifiers/evaluation/output/prediction/Null.java
+END
+CSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/6804/trunk/weka/src/main/java/weka/classifiers/evaluation/output/prediction/CSV.java
+END

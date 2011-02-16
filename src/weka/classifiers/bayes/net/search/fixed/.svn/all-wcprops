@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/fixed
+END
+FromFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/fixed/FromFile.java
+END
+NaiveBayes.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/fixed/NaiveBayes.java
+END

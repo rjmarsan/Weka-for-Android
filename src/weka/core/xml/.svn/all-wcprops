@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/xml
+END
+XMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/xml/XMLDocument.java
+END
+XMLBasicSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/xml/XMLBasicSerialization.java
+END
+KOML.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/xml/KOML.java
+END
+PropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/xml/PropertyHandler.java
+END
+XStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/xml/XStream.java
+END
+XMLInstances.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/core/xml/XMLInstances.java
+END
+SerialUIDChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/xml/SerialUIDChanger.java
+END
+XMLOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/xml/XMLOptions.java
+END
+XMLSerializationMethodHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/xml/XMLSerializationMethodHandler.java
+END
+MethodHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/xml/MethodHandler.java
+END
+XMLSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5953/trunk/weka/src/main/java/weka/core/xml/XMLSerialization.java
+END

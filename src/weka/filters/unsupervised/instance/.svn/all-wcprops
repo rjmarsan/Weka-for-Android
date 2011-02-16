@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/6798/trunk/weka/src/main/java/weka/filters/unsupervised/instance
+END
+SubsetByExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/6113/trunk/weka/src/main/java/weka/filters/unsupervised/instance/SubsetByExpression.java
+END
+ReservoirSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/filters/unsupervised/instance/ReservoirSample.java
+END
+RemoveFolds.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5499/trunk/weka/src/main/java/weka/filters/unsupervised/instance/RemoveFolds.java
+END
+RemoveFrequentValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/5499/trunk/weka/src/main/java/weka/filters/unsupervised/instance/RemoveFrequentValues.java
+END
+Randomize.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5499/trunk/weka/src/main/java/weka/filters/unsupervised/instance/Randomize.java
+END
+Resample.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5499/trunk/weka/src/main/java/weka/filters/unsupervised/instance/Resample.java
+END
+NonSparseToSparse.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/instance/NonSparseToSparse.java
+END
+RemoveWithValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/6798/trunk/weka/src/main/java/weka/filters/unsupervised/instance/RemoveWithValues.java
+END
+SparseToNonSparse.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/filters/unsupervised/instance/SparseToNonSparse.java
+END
+RemoveRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5499/trunk/weka/src/main/java/weka/filters/unsupervised/instance/RemoveRange.java
+END
+RemovePercentage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/5499/trunk/weka/src/main/java/weka/filters/unsupervised/instance/RemovePercentage.java
+END
+RemoveMisclassified.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/filters/unsupervised/instance/RemoveMisclassified.java
+END

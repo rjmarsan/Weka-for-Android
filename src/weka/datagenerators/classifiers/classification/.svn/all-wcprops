@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/datagenerators/classifiers/classification
+END
+BayesNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/datagenerators/classifiers/classification/BayesNet.java
+END
+LED24.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/datagenerators/classifiers/classification/LED24.java
+END
+RandomRBF.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/datagenerators/classifiers/classification/RandomRBF.java
+END
+RDG1.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/datagenerators/classifiers/classification/RDG1.java
+END
+Agrawal.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/5987/trunk/weka/src/main/java/weka/datagenerators/classifiers/classification/Agrawal.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/weka/!svn/ver/6997/trunk/weka/src/main/java/weka/filters
+END
+SimpleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/filters/SimpleFilter.java
+END
+Sourcable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/filters/Sourcable.java
+END
+SupervisedFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/filters/SupervisedFilter.java
+END
+MultiFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weka/!svn/ver/6945/trunk/weka/src/main/java/weka/filters/MultiFilter.java
+END
+SimpleBatchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5047/trunk/weka/src/main/java/weka/filters/SimpleBatchFilter.java
+END
+UnsupervisedFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/filters/UnsupervisedFilter.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/weka/!svn/ver/6835/trunk/weka/src/main/java/weka/filters/Filter.java
+END
+StreamableFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/filters/StreamableFilter.java
+END
+SimpleStreamFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5047/trunk/weka/src/main/java/weka/filters/SimpleStreamFilter.java
+END
+AllFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/weka/!svn/ver/5501/trunk/weka/src/main/java/weka/filters/AllFilter.java
+END
+CheckSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/filters/CheckSource.java
+END

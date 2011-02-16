@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/functions/neural
+END
+NeuralConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/5402/trunk/weka/src/main/java/weka/classifiers/functions/neural/NeuralConnection.java
+END
+NeuralMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/functions/neural/NeuralMethod.java
+END
+LinearUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5928/trunk/weka/src/main/java/weka/classifiers/functions/neural/LinearUnit.java
+END
+SigmoidUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/functions/neural/SigmoidUnit.java
+END
+NeuralNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5402/trunk/weka/src/main/java/weka/classifiers/functions/neural/NeuralNode.java
+END

@@ -1,0 +1,71 @@
+8
+
+dir
+7068
+https://svn.scms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka
+https://svn.scms.waikato.ac.nz/svn/weka
+
+
+
+2011-02-10T08:49:31.561448Z
+7067
+mhall
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+associations
+dir
+
+experiment
+dir
+
+datagenerators
+dir
+
+gui
+dir
+
+Run.java
+file
+
+
+
+
+2011-02-16T04:30:52.000000Z
+cdb237d26ef466d3568aeb154eaba140
+2010-11-05T02:32:18.570754Z
+6940
+mhall
+has-props
+
+classifiers
+dir
+
+core
+dir
+
+filters
+dir
+
+attributeSelection
+dir
+
+estimators
+dir
+
+clusterers
+dir
+
