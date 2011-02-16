@@ -1,3 +1,4 @@
 This is a port of weka 3 ( see http://www.cs.waikato.ac.nz/ml/weka/ ) to the Android platform.  Many things were removed (aka commented out), and 100% functionality is not promised.  However, it's sure better than nothing.
 
 
+for the lazy ones... download https://github.com/rjmarsan/Weka-for-Android/blob/master/wekaSTRIPPED.jar?raw=true  and add it to your android project's build path.  You may need to increase your heap size to get dx to convert it, but it will work.
